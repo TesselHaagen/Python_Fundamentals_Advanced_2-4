@@ -8,6 +8,7 @@ r = float(input("Wat is de straal van de cirkel?"))
 radius = input("Wat is de straal van de cirkel?")
 r = float(radius)
 
+# Het hangt er van af hoe je hebt geimporteerd welke pi je gebruikt
 area = math.pi * r**2 # math.pi * math.pow(r,2)
 area = m.pi * r**2
 area = pi * r**2
